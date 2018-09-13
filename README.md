@@ -4,3 +4,5 @@ Part of practice of game development using UNREAL ENGINE 4
 
   ## List Of Commit
   * 1: starting Battle Tank
+  * 2: GDD(Game Design Document )
+  
